@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67d8f78-37ac-4116-bb69-66fb1ca3eead" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello-BP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/pp/myFirstApp.java" afterDir="false" />
+    <list default="true" id="d67d8f78-37ac-4116-bb69-66fb1ca3eead" name="Changes" comment="Complete Lab 11 – Task 1 and Task 2">
+      <change afterPath="$PROJECT_DIR$/src/pl/pp/myTwelfthApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/pp/myEleventhApp.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +22,31 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lab11" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yasinefeoguz1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yasinefeoguz1/AEH_BP24L_Oguz_66615&quot;,
+    &quot;accountId&quot;: &quot;98b3c3e5-2ceb-45bf-b98d-746e727a0cd0&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2yKHvwYYXhaNpkTVt5qtZCvIP4Y" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,11 +54,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MyAgeApp.executor": "Run",
+    "Application.MyTask2_1App.executor": "Run",
+    "Application.MyTask2_2App.executor": "Run",
+    "Application.myEighthApp.executor": "Run",
+    "Application.myEleventhApp.executor": "Run",
+    "Application.myFifthApp.executor": "Run",
     "Application.myFirstApp.executor": "Run",
+    "Application.myFourthApp.executor": "Run",
+    "Application.myNinthApp.executor": "Run",
+    "Application.mySecondApp.executor": "Run",
+    "Application.mySeventhApp.executor": "Run",
+    "Application.mySixthApp.executor": "Run",
+    "Application.myTenthApp.executor": "Run",
+    "Application.myThirdApp.executor": "Run",
+    "Application.myTwelfthApp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Lab12",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -53,6 +84,109 @@
       <option name="presentableId" value="Default" />
       <updated>1749576585621</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit for Lab1">
+      <option name="closed" value="true" />
+      <created>1749577607400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749577607401</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed Lab2 tasks">
+      <option name="closed" value="true" />
+      <created>1749583273464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749583273464</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Completed Lab 3 tasks">
+      <option name="closed" value="true" />
+      <created>1749585082075</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749585082077</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Complete Lab 4 – Tasks 2.1 and 2.2">
+      <option name="closed" value="true" />
+      <created>1749586706256</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749586706260</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Complete Lab 5 – Tasks 1, 2, and 3">
+      <option name="closed" value="true" />
+      <created>1749594098710</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749594098712</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Complete Lab 6 – Task 1 and Task 2">
+      <option name="closed" value="true" />
+      <created>1749595284643</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749595284644</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Complete Lab 7 – Task 1 and Task 2">
+      <option name="closed" value="true" />
+      <created>1749596005743</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749596005744</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;Complete Lab 8 – Task 1 and Task 2&quot;">
+      <option name="closed" value="true" />
+      <created>1749597008860</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749597008862</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;Complete Lab 9 – Task 1 and Task 2&quot;">
+      <option name="closed" value="true" />
+      <created>1749597655187</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1749597655188</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Complete Lab 10 – Task 1 and Task 2">
+      <option name="closed" value="true" />
+      <created>1749598424856</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1749598424856</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Complete Lab 11 – Task 1 and Task 2">
+      <option name="closed" value="true" />
+      <created>1749598824342</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749598824343</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit for Lab1" />
+    <MESSAGE value="Completed Lab2 tasks" />
+    <MESSAGE value="Completed Lab 3 tasks" />
+    <MESSAGE value="Complete Lab 4 – Tasks 2.1 and 2.2" />
+    <MESSAGE value="Complete Lab 5 – Tasks 1, 2, and 3" />
+    <MESSAGE value="Complete Lab 6 – Task 1 and Task 2" />
+    <MESSAGE value="Complete Lab 7 – Task 1 and Task 2" />
+    <MESSAGE value="&quot;Complete Lab 8 – Task 1 and Task 2&quot;" />
+    <MESSAGE value="&quot;Complete Lab 9 – Task 1 and Task 2&quot;" />
+    <MESSAGE value="Complete Lab 10 – Task 1 and Task 2" />
+    <MESSAGE value="Complete Lab 11 – Task 1 and Task 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Lab 11 – Task 1 and Task 2" />
   </component>
 </project>
