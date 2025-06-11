@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67d8f78-37ac-4116-bb69-66fb1ca3eead" name="Changes" comment="Complete Lab 11 – Task 1 and Task 2">
-      <change afterPath="$PROJECT_DIR$/src/pl/pp/myTwelfthApp.java" afterDir="false" />
+    <list default="true" id="d67d8f78-37ac-4116-bb69-66fb1ca3eead" name="Changes" comment="Complete Lab 12 – Task 1 and Task 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/pp/myEleventhApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/pp/myTwelfthApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/pp/myThirteenthApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lab11" />
+        <entry key="$PROJECT_DIR$" value="Lab12" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,11 +67,12 @@
     "Application.mySixthApp.executor": "Run",
     "Application.myTenthApp.executor": "Run",
     "Application.myThirdApp.executor": "Run",
+    "Application.myThirteenthApp.executor": "Run",
     "Application.myTwelfthApp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Lab12",
+    "git-widget-placeholder": "Lab13",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -172,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749598824343</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Complete Lab 12 – Task 1 and Task 2">
+      <option name="closed" value="true" />
+      <created>1749600688034</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1749600688036</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -187,6 +195,7 @@
     <MESSAGE value="&quot;Complete Lab 9 – Task 1 and Task 2&quot;" />
     <MESSAGE value="Complete Lab 10 – Task 1 and Task 2" />
     <MESSAGE value="Complete Lab 11 – Task 1 and Task 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete Lab 11 – Task 1 and Task 2" />
+    <MESSAGE value="Complete Lab 12 – Task 1 and Task 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Lab 12 – Task 1 and Task 2" />
   </component>
 </project>
